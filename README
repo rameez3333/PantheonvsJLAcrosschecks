@@ -1,1 +1,8 @@
-The file PantheonVsJLA_Crosschecks.ipynb can be used to verify the assertions of section 1.
+The file PantheonVsJLA_Crosschecks.ipynb can be used to verify the assertions of section 1. It will generate the 2 tables as well as the skymap in the note.
+
+I'm also including the output of pip freeze, incase any python environment version issues come up
+
+SNJLA_PVImpact.ipynb will let you verify that almost all of the evidence for cosmic acceleration comes from peculiar velocity corrections.
+
+
+
